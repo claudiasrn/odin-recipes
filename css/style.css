@@ -20,11 +20,90 @@ html {
 .list {
     text-align: center;
     color: rgb(87, 97, 72);
-    font-size: 20px;
-    font-family: "Papyrus", sans-serif;
-    background-color: rgb(233, 226, 214);
+    font-size: 30px;
+    font-family: "Times New Roman", sans-serif;
+    background-color: rgb(179, 171, 150);
     padding: 200px;
     margin: 100px;
     border: 10px;
     border-style: double;
 }
+
+.list.ingredients {
+    width: 400px;
+    font-size: 20px;
+    margin: auto;
+    margin-top: 20px;
+    padding: 50px;
+    border: 30px;
+    border-style: solid;
+    border-color: rgb(179, 171, 150)
+}
+
+.list.steps {
+    width: 700px;
+    font-size: 20px;
+    text-align: left;
+    margin: auto;
+    margin-top: 20px;
+    padding: 50px;
+    border: 30px;
+    border-style: solid;
+    border-color: rgb(179, 171, 150)
+}
+
+span {
+    font-weight: bold;
+}
+
+.step {
+    margin: 15px;
+}
+
+img {
+    display: block;
+    width: 500px;
+    margin: auto;
+    margin-top: 50px;
+    border: 30px;
+    border-style: groove;
+    border-color: rgba(197, 89, 59, 0.309);
+}
+
+.subtitle {
+    text-align: center;
+    color: rgb(179, 171, 150);
+    font-size: 40px;
+    font-family: "Brush Script MT", sans-serif;
+    background-color: rgb(233, 226, 214);
+    height: 50px;
+    width: 500px;
+    margin: auto;
+    margin-top: 50px;
+    border: 10px;
+    border-style: double;
+}
+
+.text {
+    font-family: "Times New Roman", sans-serif;
+    font-size: 20px;
+    color: rgb(99, 64, 20);
+    background-color: rgb(179, 171, 150);
+    width: 800px;
+    text-align: left;
+    margin: auto;
+    margin-top: 20px;
+    padding: 50px;
+    border-color: rgb(179, 171, 150)
+}
+
+.home-link {
+    font-family: "Times New Roman", sans-serif;
+    font-size: 20px;
+    background-color: rgb(179, 171, 150);
+    padding: 20px;
+    margin: 50px;
+    display: block;
+    text-align: center;
+}
+
