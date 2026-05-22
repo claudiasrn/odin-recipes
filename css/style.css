@@ -1,0 +1,30 @@
+html {
+    box-sizing: border-box;
+    background-color: rgb(87, 97, 72);
+}
+
+.title {
+    text-align: center;
+    color: rgb(179, 171, 150);
+    font-size: 80px;
+    font-family: "Brush Script MT", sans-serif;
+    background-color: rgb(233, 226, 214);
+    height: 100px;
+    width: 700px;
+    margin: auto;
+    margin-top: 50px;
+    border: 10px;
+    border-style: double;
+}
+
+.list {
+    text-align: center;
+    color: rgb(87, 97, 72);
+    font-size: 20px;
+    font-family: "Papyrus", sans-serif;
+    background-color: rgb(233, 226, 214);
+    padding: 200px;
+    margin: 100px;
+    border: 10px;
+    border-style: double;
+}
